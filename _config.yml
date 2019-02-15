@@ -7,6 +7,8 @@ description: "Wrting is thinking."
 url: https://songzivuong.github.io
 logo: /logo.png
 
+permalink: /:year/:month/:date/:title.html
+
 author:
   name: Songzi Vuong
 #  twitter: 
