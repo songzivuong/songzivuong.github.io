@@ -1,0 +1,64 @@
+# Theme text and labels
+
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  skip_links: "Skip links"
+  skip_primary_nav: "Skip to primary navigation"
+  skip_content: "Skip to content"
+  skip_footer: "Skip to footer"
+  menu_label: "Menu"
+  by: "by"
+  min_read: "min read"
+  read_more: "Read more&hellip;"
+  categories: "Categories"
+  tags: "Tags"
+  pages_categorized: "Pages filed under"
+  pages_tagged: "Pages tagged"
+  table_of_contents: "Table of Contents"
+  results_found: "Result(s) found"
+  share: "Share"
+  tweet: "Tweet"
+  next: "Next"
+  previous: "Previous"
+  newer: "Newer"
+  older: "Older"
+  back_to_top: "Back to Top"
+  search_placeholder_text: "Enter your search term..."
+  powered_by: "Powered by"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Chinese
+# -----------------
+zh:
+  skip_links: "跳到链接"
+  skip_primary_nav: "跳到主导航"
+  skip_content: "跳到内容"
+  skip_footer: "跳到页脚"
+  menu_label: "菜单"
+  by: "由"
+  min_read: "分钟"
+  read_more: "阅读更多&hellip;"
+  categories: "分类"
+  tags: "标签"
+  pages_categorized: "提交的页面"
+  pages_tagged: "页面已标记"
+  table_of_contents: "目录"
+  results_found: "结果"
+  share: "分享"
+  tweet: "Tweet"
+  next: "下一个"
+  previous: "上一个"
+  newer: "更新"
+  older: "更旧"
+  back_to_top: "回到顶部"
+  search_placeholder_text: "输入你的搜索关键词"
+  powered_by: "Powered by"
