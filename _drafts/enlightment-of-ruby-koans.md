@@ -33,3 +33,14 @@ module Assertions
     end
 end
 ```
+
+## Nil
+
+Everything in Ruby is an object, even `nil` is an object. This sentence means that `nil` has methods.
+
+```ruby
+nil.is_a?(Object) # => true
+nil.nil?          # => true
+nil.to_s          # => ""
+nil.inspect       # => "nil"
+```
