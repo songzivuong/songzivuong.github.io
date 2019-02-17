@@ -44,3 +44,9 @@ nil.nil?          # => true
 nil.to_s          # => ""
 nil.inspect       # => "nil"
 ```
+
+## Objects
+
+Every object has an id, and every object has different id.
+
+Small integers have fixed ids. For integer `n`, its id is `2n+1`.
