@@ -42,9 +42,9 @@ disqus:
 
 author:
   links:
-#    - title: Twitter
-#      url: https://twitter.com/username
-#      icon: fab fa-twitter-square
+    - title: Twitter
+      url: https://twitter.com/SongziVuong
+      icon: fab fa-twitter-square
 #    - title: Instagram
 #      url: https://instagram.com/username
 #      icon: fab fa-instagram
@@ -53,9 +53,9 @@ author:
       icon: fab fa-github-square
 
 footer_links:
-#  - title: Twitter
-#    url: https://twitter.com/username
-#    icon: fab fa-twitter-square
+  - title: Twitter
+    url: https://twitter.com/SongziVuong
+    icon: fab fa-twitter-square
   - title: GitHub
     url: https://github.com/songzivuong
     icon: fab fa-github-square
