@@ -49,4 +49,6 @@ nil.inspect       # => "nil"
 
 Every object has an id, and every object has different id.
 
-Small integers have fixed ids. For integer `n`, its id is `2n+1`.
+Small integers have fixed ids. For integer `n`, its id is `2n+1`. 
+
+How does Ruby manage objects?
