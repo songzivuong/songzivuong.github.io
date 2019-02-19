@@ -1,71 +1,22 @@
-encoding: utf-8
-remote_theme: "mmistakes/so-simple-theme"
-
-locale: "en"
 title: "Songzi Vuong's Blog"
+author: Songzi Vuong
+email: songzivuong@gmail.com
 description: "Wrting is thinking."
-url: https://songzivuong.github.io
-logo: /logo.png
 
-permalink: /:year/:month/:day/:title.html
+show_excerpts: true
 
-author:
-  name: Songzi Vuong
-#  twitter: 
-  picture: /logo.png
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    twitter: SongziVuong
+    github:  songzivuong
+    rss: rss
 
-exclude:
-  - scripts/
-  - Gemfile
-  - Gemfile.lock
+header_pages:
+  - about.md
 
-read_time: true
-words_per_minute: 200
-
-mathjax: true
-
-google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
-
-search_full_content: false
-
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
-
-google_analytics: UA-134434672-1
-
-disqus:
-  shortname: songzivuong
-
-author:
-  links:
-    - title: Twitter
-      url: https://twitter.com/SongziVuong
-      icon: fab fa-twitter-square
-#    - title: Instagram
-#      url: https://instagram.com/username
-#      icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/songzivuong
-      icon: fab fa-github-square
-
-footer_links:
-  - title: Twitter
-    url: https://twitter.com/SongziVuong
-    icon: fab fa-twitter-square
-  - title: GitHub
-    url: https://github.com/songzivuong
-    icon: fab fa-github-square
-  - title: Feed
-    url: feed.xml
-    icon: fas fa-rss-square
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-redirect-from
