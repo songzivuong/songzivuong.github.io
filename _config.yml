@@ -5,7 +5,7 @@ description: "Wrting is thinking."
 
 show_excerpts: true
 
-minima:
+minimax:
   date_format: "%b %-d, %Y"
   social_links:
     twitter: SongziVuong
@@ -15,7 +15,8 @@ minima:
 header_pages:
   - about.md
 
-remote_theme: jekyll/minima
+#theme: minimax
+remote_theme: songzivuong/minimax
 
 plugins:
   - jekyll-seo-tag
