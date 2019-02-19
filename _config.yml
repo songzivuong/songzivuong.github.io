@@ -20,3 +20,8 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+
+disqus:
+  shortname: songzivuong
+
+google_analytics: UA-134434672-1
