@@ -2,8 +2,10 @@
 layout: post
 title: "Learning Rust in 2019"
 date: 2019-02-18 15:55:04 +0800
+last_modified_at: 2019-02-19 11:46:40 +0800
 categories: Programming
 tags: rust
+share: true
 ---
 
 I plan to learn Rust in this year.
@@ -32,7 +34,7 @@ Other reasons:
 
 ## How
 
-First, read ["the book"](https://doc.rust-lang.org/book/). Besides, Jim Blandy's book [*Programming Rust*]() is also a good reference with high ratings both at [Goodreads](https://www.goodreads.com/book/show/25550614-programming-rust) and at [Douban](https://book.douban.com/subject/26616762/).
+First, read ["the book"](https://doc.rust-lang.org/book/). Besides, Jim Blandy's book [*Programming Rust*](http://shop.oreilly.com/product/0636920040385.do) is also a good reference with high ratings both at [Goodreads](https://www.goodreads.com/book/show/25550614-programming-rust) and at [Douban](https://book.douban.com/subject/26616762/).
 
 Feel boring to a lot of words? [Rust by example](https://doc.rust-lang.org/stable/rust-by-example/).
 
