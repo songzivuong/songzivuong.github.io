@@ -28,3 +28,7 @@ cargo new hello_cargo
 ```
 
 It will produce a directory `src` with a `main.rs` inside, and a `Cargo.toml` file which is Cargo's configuration file and in the [Tom’s Obvious, Minimal Language](https://github.com/toml-lang/toml) format.
+
+## Example: Guessing Game
+
+There is a trap! If you want to use the `rand` crate, you have to declare `extern crate rand;` at the top.
