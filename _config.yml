@@ -9,6 +9,7 @@ show_excerpts: true
 
 minimax:
   date_format: "%b %-d, %Y"
+  posts_limit: 20
   social_links:
     twitter: SongziVuong
     github:  songzivuong
