@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes of The Feynman Lectures on Physics, Volume I"
+title: "Read The Feynman Lectures on Physics, Volume I"
 categories: [Physics, Reading]
 tags: feynman
 ---
