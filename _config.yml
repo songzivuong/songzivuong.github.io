@@ -16,6 +16,7 @@ minimax:
 
 header_pages:
   - about.md
+  - tags.md
 
 remote_theme: songzivuong/jekyll-theme-minimax
 
