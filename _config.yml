@@ -3,6 +3,8 @@ author: Songzi Vuong
 email: songzivuong@gmail.com
 description: "Writing is thinking."
 
+permalink: /:year/:month/:day/:title.html
+
 show_excerpts: true
 
 minimax:
@@ -15,8 +17,7 @@ minimax:
 header_pages:
   - about.md
 
-#theme: minimax
-remote_theme: songzivuong/minimax
+remote_theme: songzivuong/jekyll-theme-minimax
 
 plugins:
   - jekyll-seo-tag
