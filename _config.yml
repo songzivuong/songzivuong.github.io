@@ -29,3 +29,7 @@ disqus:
   shortname: songzivuong
 
 google_analytics: UA-134434672-1
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
